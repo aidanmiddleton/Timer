@@ -1,3 +1,6 @@
+//Pair coded with Joe Wang 
+
+
 let timerArray = process.argv.slice(2)
 const timer = (time) => {
   setTimeout(() => {
